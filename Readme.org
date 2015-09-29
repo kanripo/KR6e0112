@@ -1,13 +1,13 @@
 #-*- mode: org; -*-
-#+DATE: 2015-09-28 22:58:19.289387
+#+DATE: 2015-09-28 22:58:19.666819
 #+TITLE: 解迷顯智成悲十明論
 #+PROPERTY: CBETA_ID T45n1888
 #+PROPERTY: ID KR6e0112
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 45, No. 1888
 #+PROPERTY: VOL 45
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6e0112_T_000-0767c>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 
-[[file:KR6e0112_001.txt::001-0767c25][釋華嚴十明論敘]]
-[[file:KR6e0112_001.txt::0768b12][釋十二緣生]]
+[[file:KR6e0112_001.txt::001-0767c26][釋華嚴十明論敘¶]]
+[[file:KR6e0112_001.txt::0768b13][釋十二緣生¶]]

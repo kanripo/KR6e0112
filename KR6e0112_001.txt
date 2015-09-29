@@ -1,24 +1,20 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:58:19.308396
+#+DATE: 2015-09-28 22:58:19.677681
 #+TITLE: 解迷顯智成悲十明論
 #+PROPERTY: CBETA_ID T45n1888
 #+PROPERTY: ID KR6e0112
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 45, No. 1888
 #+PROPERTY: VOL 45
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6e0112_T_000-0767c>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6e0112_T_001-0767c> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.1888¶
+No. 1888¶
 
-釋華嚴十明論敘
-:PROPERTIES:
-:head: 釋華嚴十明論敘
-:END:
-¶
+釋華嚴十明論敘¶
 ¶
 宋寶覺圓明禪師惠洪覺範撰¶
 
@@ -64,16 +60,11 @@ No.1888¶
 十日書¶
 ¶
 ¶
-
- 解迷顯智成悲十明論¶
+解迷顯智成悲十明論¶
 ¶
 唐太原李通玄撰¶
 
-釋十二緣生
-:PROPERTIES:
-:head: 釋十二緣生
-:END:
-¶
+釋十二緣生¶
 
 夫十二緣生者。是一切眾生逐妄迷真。隨生¶
 死流轉波浪不息之大苦海。其海廣大甚深¶
