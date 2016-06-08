@@ -1,24 +1,20 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:58:19.308396
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:43
 #+TITLE: 解迷顯智成悲十明論
 #+PROPERTY: CBETA_ID T45n1888
 #+PROPERTY: ID KR6e0112
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 45, No. 1888
 #+PROPERTY: VOL 45
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6e0112_T_000-0767c>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6e0112_T_001-0767c> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.1888¶
+No. 1888¶
 
-釋華嚴十明論敘
-:PROPERTIES:
-:head: 釋華嚴十明論敘
-:END:
-¶
+* 釋華嚴十明論敘¶
 ¶
 宋寶覺圓明禪師惠洪覺範撰¶
 
@@ -64,16 +60,11 @@ No.1888¶
 十日書¶
 ¶
 ¶
-
- 解迷顯智成悲十明論¶
+解迷顯智成悲十明論¶
 ¶
 唐太原李通玄撰¶
 
-釋十二緣生
-:PROPERTIES:
-:head: 釋十二緣生
-:END:
-¶
+* 釋十二緣生¶
 
 夫十二緣生者。是一切眾生逐妄迷真。隨生¶
 死流轉波浪不息之大苦海。其海廣大甚深¶
@@ -613,9 +604,9 @@ No.1888¶
 　一一諸位中
 　波羅蜜行別¶
 　互參各不同
-　不離初發心
+　不離初發心」
 #+END_VERSE
-」¶
+¶
 
 右已上法門皆如來普光明智為體。差別智¶
 為用。使令智慧充滿。以為法界。大乘經云。十¶
